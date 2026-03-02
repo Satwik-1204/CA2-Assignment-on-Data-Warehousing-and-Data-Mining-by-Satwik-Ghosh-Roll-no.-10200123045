@@ -1,0 +1,2 @@
+# CA2-Assignment-on-Data-Warehousing-and-Data-Mining-by-Satwik-Ghosh-Roll-no.-10200123045
+Traditional unsupervised clustering like K-Means often misses semantic structure by relying only on geometric similarity. This report evaluates a semi-supervised COP-KMEANS approach using Must-Link and Cannot-Link constraints, enhanced by active constraint selection to query ambiguous points, improving cluster purity while reducing labeling cost.
